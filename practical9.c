@@ -11,7 +11,7 @@ int main() {
 
     switch(ch) {
         case 'a': case 'e': case 'i': case 'o': case 'u':
-        case 'A': case 'E': case 'I': case 'O': case 'U':
+        case 'A': case 'E': case 'I': case 'O': case 'U':             //2510990027
             printf("It is a Vowel\n");
             break;
 
@@ -41,4 +41,5 @@ int main() {
     }
 
     return 0;
+
 }
