@@ -1,4 +1,4 @@
-#Fundamentals in C Programming – Practical File
+#**Fundamentals in C Programming – Practical File**
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="130"> </p>
 
 This repository contains all the practical programs completed for Semester 2 as part of the Fundamentals in C Programming laboratory course.
