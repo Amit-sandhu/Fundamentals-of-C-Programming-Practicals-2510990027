@@ -7,7 +7,7 @@ int main() {
 
     if (x == 1) {
         int V,u,a,t;
-        printf("You have chosen V = u + at eqn\n");
+        printf("You have chosen V = u + at eqn\n");             //2510990027
         scanf("%d %d %d",&u,&a,&t);
 
         V = u + a*t;
@@ -41,4 +41,5 @@ int main() {
         printf("The num u entered is out of range");
     }
     return 0;
+
 }
