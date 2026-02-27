@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="image_link" width="120">
+</p>
 # Fundamentals-of-C-Programming-Practicals-2510990027
 
 Fundamentals in C Programming – Practical File
