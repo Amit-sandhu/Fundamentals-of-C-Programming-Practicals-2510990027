@@ -86,5 +86,7 @@ To write a program using a while loop to print the sum of the first n natural nu
 How to Compile and Run :
 
 In the Terminal type 
+
 gcc filename.c -o output
+
 ./output
