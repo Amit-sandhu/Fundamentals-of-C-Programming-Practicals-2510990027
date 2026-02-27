@@ -13,7 +13,7 @@ This repository contains all the practical programs completed for Semester 2 as 
 - **Subject:** Fundamentals in C Programming  
 - **Semester:** 2  
 - **Language:** C  
-- **Compiler:** GCC
+- **Compiler:** GCC/Code::Blocks
 - **Academic Year:** 2025–2026  
 
 ---
