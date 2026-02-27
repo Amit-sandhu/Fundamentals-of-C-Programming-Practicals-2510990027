@@ -8,9 +8,10 @@ int main() {
     scanf("%d",&r);
 
     float area = pi * r * r;
-    float circumference = 2 * pi * r;       //2510990119
+    float circumference = 2 * pi * r;       //2510990027
 
     printf("Area: %.2f\n",area);
     printf("Circumference: %.2f",circumference);
     return 0;
+
 }
