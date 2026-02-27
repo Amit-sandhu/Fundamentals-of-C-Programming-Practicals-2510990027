@@ -3,8 +3,6 @@
 </p>
 # Fundamentals-of-C-Programming-Practicals-2510990027
 
-Fundamentals in C Programming – Practical File
-
 This repository contains all the practical programs completed for Semester 2 as part of the Fundamentals in C Programming laboratory course.
 
 Course Information
