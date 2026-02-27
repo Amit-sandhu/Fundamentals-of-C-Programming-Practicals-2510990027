@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="120">
-</p>
-# Fundamentals-of-C-Programming-Practicals-2510990027
+Fundamentals in C Programming – Practical File
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="130"> </p>
 
 This repository contains all the practical programs completed for Semester 2 as part of the Fundamentals in C Programming laboratory course.
 
@@ -14,6 +12,8 @@ Semester: 2
 Language: C
 
 Compiler: GCC / Code::Blocks
+
+Academic Year: 2025–2026
 
 Practical List with Aims
 Practical 1
@@ -83,11 +83,3 @@ Practical 10
 
 Aim:
 To write a program using a while loop to print the sum of the first n natural numbers.
-
-How to Compile and Run :
-
-In the Terminal type 
-
-gcc filename.c -o output
-
-./output
