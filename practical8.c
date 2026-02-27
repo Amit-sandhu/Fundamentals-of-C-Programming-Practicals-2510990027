@@ -8,7 +8,7 @@ int main() {
     scanf("%d %d %d", &a, &b, &c);
 
     if (a >= b && a >= c) {
-        printf("\nUsing If-Else:\n");       //2510990119
+        printf("\nUsing If-Else:\n");       //2510990027
         printf("Greatest number is: %d\n", a);
     }
     else if (b >= a && b >= c) {
@@ -27,4 +27,5 @@ int main() {
     printf("Greatest number is: %d\n", greatest);
 
     return 0;
+
 }
