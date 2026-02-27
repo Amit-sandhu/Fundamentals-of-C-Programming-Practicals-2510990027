@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_link" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="120">
 </p>
 # Fundamentals-of-C-Programming-Practicals-2510990027
 
